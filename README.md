@@ -191,6 +191,7 @@ Signed,
 - Anthony Lee, @antwonlee (Software Engineer)
 - Jannis Leidel, @jezdez (Mozilla, Python Software Foundation, Django Software Foundation)
 - Judson Lester, @nyarly (Many small projects and contributions)
+- Eric Lewis, @ericandrewlewis (Software Engineer)
 - Myles Lewando, @codemacabre (CodeMacabre, OpenPlanetary)
 - Richard Littauer, @RichardLitt (Maintainer Mountaineer)
 - isis lovecruft, @isislovecruft (Cryptographer)
